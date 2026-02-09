@@ -1,23 +1,49 @@
+<div align="center">
 
-![AI Studio App](docs/banner.png)
+<h1>🚀 Run and Deploy your Amstar-2 Tool App</h1>
 
-# Run and deploy your AI Studio app
+<p>
+  Everything you need to run your AI Studio app locally using Node.js and Gemini API.
+</p>
+
+  </a>
+</p>
+
+<img src="https://undraw.co/api/illustrations/undraw_programming.svg" width="600" />
+
+</div>
+
+<hr/>
+
+<h2>💻 Run Locally</h2>
+
+<p><strong>Prerequisites:</strong> Node.js</p>
+
+<pre><code>npm install</code></pre>
+
+<p>Set your Gemini API key in <code>.env.local</code>:</p>
+
+<pre><code>GEMINI_API_KEY=your_api_key_here</code></pre>
+
+<p>Run the app:</p>
+
+<pre><code>npm run dev</code></pre>
+
+<hr/>
+
+<h2>✨ Features</h2>
+
+<ul>
+  <li>⚡ Fast local setup</li>
+  <li>🤖 Gemini API integration</li>
+  <li>🛠 Developer-friendly workflow</li>
+  <li>🌍 Open-source ready</li>
+</ul>
+
+<hr/>
+
+<p align="center">
+  Built for developers • Open Source • MIT License
+</p>
 
 
-# Run and deploy your AI Studio app
-
-
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/drive/1kYPTL0MF7jPowqWz7Nlda62QlyUg6smJ
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
