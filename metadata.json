@@ -1,0 +1,5 @@
+{
+  "name": "AMSTAR-2 Quality Assessor",
+  "description": "A professional tool for assessing the methodological quality of systematic reviews based on the AMSTAR-2 checklist, featuring AI-assisted analysis using Gemini.",
+  "requestFramePermissions": []
+}
